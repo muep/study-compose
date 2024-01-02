@@ -1,7 +1,6 @@
 version: '3.3'
-
+name: study
 services:
   helloworld:
     image: hello-world
-    container_name: hello_world_container
 
